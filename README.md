@@ -1,0 +1,2 @@
+# lswholding
+lswholding static site
